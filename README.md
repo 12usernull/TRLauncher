@@ -18,7 +18,7 @@
 
 1. Pick the correct download for your system.
 2. Uncompress it in your desired directory.
-3. Launch `UltimMC`.
+3. Launch `TRLauncher`.
 4. Go to account settings.
 6. A. Pick "Add Local" and you will be requested to use the username you desire, this can be anything.
 7. B. Pick "Add Ely.by" and add your Ely.by account by putting your email and password.
