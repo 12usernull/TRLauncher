@@ -2,9 +2,6 @@
 
 <img width="150" src="https://github.com/UltimMC/Launcher/assets/62727185/48d60c15-23ae-4d48-84b8-813f72db6cdd">
 
-<p align="center">UltimMC is a custom launcher for Minecraft which allows you to manage multiple instances and use offline ("cracked") accounts while keeping as close as possible to the original.</p>
-
-</p>
 
 > [!IMPORTANT]
 > This project is a **fork** of MultiMC. </br> </br>
@@ -15,16 +12,7 @@
 
 ## Downloading
 
-- All the available downloads can be found [here](https://nightly.link/UltimMC/Launcher/workflows/main/develop). These builds are directly taken from our [GitHub Actions](https://github.com/UltimMC/Launcher/actions).
-
-Direct downloads for specific platforms can be found below.
-
-- *[Windows \(32-bit and 64-bit\)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-win32.zip)*.
-
-- *[Linux (64-bit)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-lin64.zip)*.
-
-- *[macOS (10.14 and newer)](https://nightly.link/UltimMC/Launcher/workflows/main/develop/mmc-cracked-osx64.zip)*.
-
+- 
 > [!NOTE]
 > In the case you're using macOS then another additional step you might need to do
 > is to make `UltimMC` an executable by running the command `chmod +x UltimMC.app/Contents/MacOS/UltimMC` in the terminal.
