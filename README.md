@@ -3,14 +3,14 @@
 ## This software is not related to MultiMC developers and provided without any warranty. Please don't bomb MultiMC developers if something gets wrong using this launcher.
 
 ## Pre-built binaries:
-- Windows / Linux / MacOS: https://nightly.link/UltimMC/Launcher/workflows/main/main
+- Windows / Linux / MacOS: Not Avalabile
 
 To update the launcher replace all replaceable files and folders with the newer one from the above link. Do not use the inbuilt option, as that downloads the MultiMC launcher instead (this will be fixed in a future version).
 
 ## How to install and use
 1. Download pre-built binaries for your system.
 2. Unpack them in your desired directory.
-3. Launch `UltimMC`.
+3. Launch `TRLauncher`.
 4. Go to account settings, and you will be requested to use email and password.
 5. As your email use your username, and then type a random password or use ElyBy account.
 6. Save it.
