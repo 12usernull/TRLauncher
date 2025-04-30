@@ -8,7 +8,7 @@
 > This software is provided without any warranty, so please don't contact the main
 > MultiMC developers in case anything goes wrong using this launcher. </br> </br>
 > Nonetheless, feel free to create an issue within this repository
-> in case you face an issue specific to UltimMC.
+> in case you face an issue specific to TRLauncher.
 
 ## Downloading
 
